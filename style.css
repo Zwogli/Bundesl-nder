@@ -61,6 +61,7 @@ body {
 .bundesland-container {
   background-image: url(img/Texturelabs_Paper_302S.jpg);
   background-color: #fafbed;
+  background-size: cover;
   width: 90%;
   max-width: 650px;
   padding: 0 16px;
@@ -192,6 +193,7 @@ main .industrie-dropdown:hover {
 .input-container .input-btn {
   padding: 2px;
   width: 20%;
+  min-width: 90px;
   border: 2px solid black;
   background: #fdfcfa;
   cursor: pointer;
